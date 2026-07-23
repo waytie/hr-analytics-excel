@@ -1,6 +1,8 @@
-# HR Employee Dashboard (Microsoft Excel)
+# HR Employee Attrition Dashboard (Microsoft Excel)
 
-![Dashboard](Images/Dashboard.png)
+<p align="center">
+  <img src="Images/Dashboard.png" width="900">
+</p>
 
 ## Project Overview
 
@@ -98,7 +100,9 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+<p align="center">
+  <img src="Images/Dashboard.png" width="900">
+</p>
 
 ---
 
