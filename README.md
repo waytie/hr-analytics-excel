@@ -111,16 +111,16 @@ The dashboard includes:
 ```
 HR_Analytics_Excel/
 │
-├── Dataset/
-│   └── Employee_Attrition_DataSet.xlsx
-│
 ├── Dashboard/
-│   └── HR_Analytics.xlsx
+│   └── Employee_Attrition_Clean.xlsx
+│
+├── Dataset/
+│   └── Employee_Attrition_DataSet.csv
 │
 ├── Images/
 │   ├── Dashboard.png
-│   ├── Pivot_Tables.png
-│   └── Data_Cleaning.png
+│   ├── Data_Cleaning.png
+│   └── Pivot_Tables.png
 │
 └── README.md
 ```
