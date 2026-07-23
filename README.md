@@ -1,6 +1,6 @@
 # HR Employee Dashboard (Microsoft Excel)
 
-![Dashboard](Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ## Project Overview
 
@@ -98,7 +98,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
